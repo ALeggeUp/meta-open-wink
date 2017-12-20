@@ -10,6 +10,5 @@ FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}:"
 # PN = "1.27.2"
 
 SRC_URI += " \
-	    file://no_rfkill.cfg \
 	    file://yes_ar.cfg \
            "
